@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Souvik Ray
 
 🎓 Computer Science Graduate | 📊 Aspiring Data & Business Analyst | 📚 CPA Candidate  
-📍 Based in Canada | 🌐 [souvikray.com](https://souvikray.com)
+🌐 [souvikray.com](https://souvikray.com)
 
 ---
 
